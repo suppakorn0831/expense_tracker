@@ -1,0 +1,1 @@
+Expense Tracker: separated Dart files. Copy lib folders into your existing Flutter project, keeping your existing firebase_options.dart and pubspec.yaml. Back up old lib/main.dart first. Run flutter analyze and flutter run -d edge. Note: Compact Mode currently saves a preference but does not alter dashboard layout. Check Firestore rules before production.
